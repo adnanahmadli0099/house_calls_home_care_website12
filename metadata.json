@@ -1,0 +1,6 @@
+{
+  "name": "HouseCalls Home Care",
+  "description": "Official website for HouseCalls Home Care – Premier licensed home health care, CDPAP services, nursing, and personal care across New York City and Brooklyn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
